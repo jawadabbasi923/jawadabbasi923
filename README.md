@@ -1,8 +1,10 @@
-### Hi there 👋
+<div align="center"> 
+  ### Hi there 👋
+</div>
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/KGhpQ5NMoWKQurlHwI/200w.webp?cid=ecf05e47ptihnxx9wgw64xsvsuty2qh186xslztspum2u8c9&rid=200w.webp&ct=g" width="100"/>
 </div>
-<div id="badges"  align="center">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jawadabbasi616">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

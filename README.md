@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media1.giphy.com/media/KGhpQ5NMoWKQurlHwI/200w.webp?cid=ecf05e47ptihnxx9wgw64xsvsuty2qh186xslztspum2u8c9&rid=200w.webp&ct=g)" width="100"/>
+  <img src="https://media1.giphy.com/media/KGhpQ5NMoWKQurlHwI/200w.webp?cid=ecf05e47ptihnxx9wgw64xsvsuty2qh186xslztspum2u8c9&rid=200w.webp&ct=g" width="100"/>
 </div>
 <!--
 **jawadabbasi923/jawadabbasi923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
